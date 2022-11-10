@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA, JS, REACT, HTML5, CSS3, C#, C++, PHP, Apache, NodeJS
 - 🌱 I’m currently learning DevOps, React
 - 💞️ I’m looking to collaborate on YOU
-- 📫 How to reach me ... 
+- 📫 How to reach me ... robertmagdarm@gmail.com
 
 
 <!---

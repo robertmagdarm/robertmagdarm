@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @robertmagdarm
-- 👀 I’m interested in JAVA, JS, REACT, HTML5, CSS3, C#, C++, PHP, Apache, NodeJS
-- 🌱 I’m currently learning DevOps, React
-- 💞️ I’m looking to collaborate on YOU
-- 📫 How to reach me ... robertmagdarm@gmail.com
+- 👋 Hi, my Name is Robert Magda
+- 👀 I’m interested programming in JAVA JDK NetBeans, HTML5, CSS3, C# Visual Studio, C++, PHP
+- 🌱 I work in IT education
+- 💞️ I like computers, mountain bike, nauture, sport
+- 📫 e-mail: robertmagdarm@gmail.com
 
 
 <!---
